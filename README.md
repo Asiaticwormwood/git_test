@@ -1,4 +1,4 @@
 This is a test readme file.   
 ADD one line!!! Hello world!  
 Create a new branch~  
-Merge is hard*~*
+Create can be hard^~^  
